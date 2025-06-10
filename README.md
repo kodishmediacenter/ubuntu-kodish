@@ -32,9 +32,11 @@ Instalador automático para configurar um sistema Ubuntu 24.04 LTS com os princi
    git clone https://github.com/seuusuario/kodish-pack.git
 
 2. De permissão ao Arquivo
+   ```bash
    chmod +x kodish-pack.sh
 
-3. Para Executar o script
+4. Para Executar o script
+   ```bash
   ./kodish-pack.sh
 
 
