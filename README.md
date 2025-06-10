@@ -29,7 +29,7 @@ Instalador automático para configurar um sistema Ubuntu 24.04 LTS com os princi
 
 1. Baixe o script:
    ```bash
-   git clone https://github.com/seuusuario/kodish-pack.git
+   git clone [https://github.com/seuusuario/kodish-pack.git](https://github.com/kodishmediacenter/ubuntu-kodish.git)
    cd kodish-pack
 
 
