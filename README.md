@@ -37,7 +37,7 @@ Instalador automático para configurar um sistema Ubuntu 24.04 LTS com os princi
 
 4. Para Executar o script
    ```bash
-  ./kodish-pack.sh
+   ./kodish-pack.sh
 
 
 
